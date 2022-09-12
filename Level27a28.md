@@ -1,7 +1,7 @@
 # Retos Bandit
 Para documentar los retos bandit, usaremos la siguiente estructura:
 
-# Level 0
+# Level 27 a 28
 
 ## Objetivo
 		``` Shell
